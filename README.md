@@ -2,7 +2,7 @@
 
 Library for Python 3
 
-This is created to simplify experiment data analyze
+This was created to simplify experiment data analyze
 
 Something what looks like documentation 
 You can find in descripion.txt
